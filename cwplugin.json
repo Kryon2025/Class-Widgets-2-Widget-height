@@ -1,0 +1,12 @@
+{
+  "id": "com.high",
+  "name": "小组件布局",
+  "version": "1.0.0",
+  "api_version": ">=0.6.0",
+  "entry": "main.py",
+  "author": "松峰",
+  "description": "调节小组件展示高度与隐藏深度(组件距屏幕边界的距离)(由Deepseek V4 Pro开发)",
+  "readme": "README.md",
+  "url":"https://github.com/Kryon2025/Class-Widgets-2-Widget_height",
+  "icon":"icon.png"
+}
