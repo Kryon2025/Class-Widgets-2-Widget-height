@@ -7,14 +7,14 @@ import ClassWidgets.Plugins
 /*!
     小组件布局插件设置页。
 
-    配置经官方插件配置通道持久化（plugins.configs.com.high），
+    配置经官方插件配置通道持久化（plugins.configs.com.kryon.widgets-high），
     通过 backend 槽读写（getConfig / setDisplayHeight / setHideDepth），
     改动即保存；主程序 WidgetsContainer 的轮询 Timer 实时应用，无需重启。
 */
 
 PluginPage {
     id: page
-    pluginId: "com.high"
+    pluginId: "com.kryon.widgets-high"
     title: qsTr("小组件布局")
 
     property var info: ({})
