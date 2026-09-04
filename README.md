@@ -2,7 +2,7 @@
 
 无组件界面的辅助插件。由Deepseek V4 Pro开发。
 
-<span style="color:red;">该插件不再更新，所有插件功能已转移至“Kryon的更多设置”</span>
+> <span style="color:red;">该插件不再更新，所有插件功能已转移至“Kryon的更多设置”</span>
 
 ## 功能特色
 
