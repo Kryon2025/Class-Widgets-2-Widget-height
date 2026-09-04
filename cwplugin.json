@@ -1,11 +1,11 @@
 {
   "id": "com.kryon.widgets-high",
   "name": "小组件自定义高度",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "api_version": ">=0.6.0",
   "entry": "main.py",
   "author": "松峰",
-  "description": "调节小组件展示高度与隐藏深度(组件距屏幕边界的距离)(由Deepseek V4 Pro开发)",
+  "description": "⚠️ 该版本已停止更新，所有功能已迁移至「Kryon的更多设置」插件。",
   "readme": "README.md",
   "url":"https://github.com/Kryon2025/Class-Widgets-2-Widget-height",
   "icon":"icon.png"

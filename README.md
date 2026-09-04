@@ -2,6 +2,8 @@
 
 无组件界面的辅助插件。由Deepseek V4 Pro开发。
 
+<span style="color:red;">该插件不再更新，所有插件功能已转移至“Kryon的更多设置”</span>
+
 ## 功能特色
 
 为Class Widgets 2增加自定义小组件显示高度及隐藏深度功能，避免隐藏时出现漏字情况。
